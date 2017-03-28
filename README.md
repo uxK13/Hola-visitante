@@ -1,1 +1,1 @@
-# Hola-visitante
+# Project at Czechitas curse - Bootstrap
